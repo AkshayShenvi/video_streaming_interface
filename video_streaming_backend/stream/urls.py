@@ -6,5 +6,5 @@ urlpatterns = [
     path('createbuck/', views.create_bucket),
     path('addvid/', views.add_video),
     path('getvid/', views.getVideo),
-    path('getlist/',views.getlist)
+    
 ]
